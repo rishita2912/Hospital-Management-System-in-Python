@@ -4,7 +4,7 @@ Hospital management system has been written in python language.
 
 In this hospital management system, there are two options one is ADMIN and the other one is USER 
 
-In ADMIN we can do all the things listed below
+In ADMIN, we can do all the things listed below
 
 To get into the ADMIN mode you need to enter the password(1234)
 
@@ -47,14 +47,14 @@ To get into the ADMIN mode you need to enter the password(1234)
 Note:-Only one person can book an appointment at a time   
 
 
-In USER we can do all the things listed below
+In USER, we can do all the things listed below
 
-1.To view hospital's departments
+1. View hospital's departments
 
-2.To view hospital's doctors
+2. View hospital's doctors
 
-3.To view patient's residents
+3. View patient's residents
 
-4.To view patient's details
+4. View patient's details
 
-5.To view doctor's appointments
+5. View doctor's appointments
