@@ -1,6 +1,8 @@
 # Hospital-Management-System-in-Python
 
 Hospital management system has been written in python language.
+
+
 In this hospital management system, there are two options one is ADMIN and the other one is USER 
 
 In ADMIN we can do all the things listed below
