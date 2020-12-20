@@ -6,13 +6,21 @@ Hospital management system has been written in python language.
 In this hospital management system, there are two options one is ADMIN and the other one is USER 
 
 In ADMIN we can do all the things listed below
+
 To get into the ADMIN mode you need to enter the password(1234)
+
 1.Patient
+
   a.Add Patient Details
-  b.View Patient Details
+  
+  b.View Patient Details 
+  
   c.Update Patient Details
+  
   d.Search Patient Details
+  
   e.Delete Patient Details
+  
   
 2.Doctor
   a.Add Doctor Details
