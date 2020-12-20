@@ -10,39 +10,39 @@ To get into the ADMIN mode you need to enter the password(1234)
 
 1. Patient
 
-   a.Add Patient Details
+   a. Add Patient Details
   
-   b.View Patient Details 
+   b. View Patient Details 
   
-   c.Update Patient Details
+   c. Update Patient Details
   
-   d.Search Patient Details
+   d. Search Patient Details
   
-   e.Delete Patient Details
+   e. Delete Patient Details
   
 2. Doctor
  
-   a.Add Doctor Details
+   a. Add Doctor Details
   
-   b.View Doctor Details
+   b. View Doctor Details
   
-   c.Update Doctor Details
+   c. Update Doctor Details
   
-   d.Search Doctor Details
+   d. Search Doctor Details
    
-   e.Delete Doctor Details
+   e. Delete Doctor Details
   
 3. Appointment
   
-   a.Add appointment of patient
+   a. Add appointment of patient
   
-   b.View appointment
+   b. View appointment
   
-   c.Update appointment
+   c. Update appointment
   
-   d.Search appointment
+   d. Search appointment
   
-   e.Delete appointment
+   e. Delete appointment
 
 Note:-Only one person can book an appointment at a time   
 
